@@ -1,0 +1,6 @@
+msg=("my")
+print(msg)
+
+
+
+
